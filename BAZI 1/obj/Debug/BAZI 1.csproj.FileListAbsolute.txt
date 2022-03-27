@@ -1,0 +1,10 @@
+C:\Users\sanaypc\source\repos\BAZI 1\BAZI 1\bin\Debug\BAZI 1.exe.config
+C:\Users\sanaypc\source\repos\BAZI 1\BAZI 1\bin\Debug\BAZI 1.exe
+C:\Users\sanaypc\source\repos\BAZI 1\BAZI 1\bin\Debug\BAZI 1.pdb
+C:\Users\sanaypc\source\repos\BAZI 1\BAZI 1\obj\Debug\BAZI 1.csprojAssemblyReference.cache
+C:\Users\sanaypc\source\repos\BAZI 1\BAZI 1\obj\Debug\BAZI_1.Form1.resources
+C:\Users\sanaypc\source\repos\BAZI 1\BAZI 1\obj\Debug\BAZI_1.Properties.Resources.resources
+C:\Users\sanaypc\source\repos\BAZI 1\BAZI 1\obj\Debug\BAZI 1.csproj.GenerateResource.cache
+C:\Users\sanaypc\source\repos\BAZI 1\BAZI 1\obj\Debug\BAZI 1.csproj.CoreCompileInputs.cache
+C:\Users\sanaypc\source\repos\BAZI 1\BAZI 1\obj\Debug\BAZI 1.exe
+C:\Users\sanaypc\source\repos\BAZI 1\BAZI 1\obj\Debug\BAZI 1.pdb
